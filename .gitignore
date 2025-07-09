@@ -5,6 +5,8 @@ __pycache__/
 
 /grokking_my_venv/
 
+*.csv
+
 # C extensions
 *.so
 
